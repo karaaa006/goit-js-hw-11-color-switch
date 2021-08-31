@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CST-education/webpack_base_bundle.git"
+    "url": "git+https://github.com/karaaa006/goit-js-hw-11-color-switch.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://CST-education.github.io/webpack_bundle#readme",
+  "homepage": "https://karaaa006.github.io/goit-js-hw-11-color-switch/src",
   "devDependencies": {
     "@babel/core": "^7.12.8",
     "@babel/plugin-proposal-class-properties": "^7.12.1",
